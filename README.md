@@ -1,1 +1,3 @@
+# EEG-Signal-Analysis-A-Comprehensive-Review-and-Comparative-Study
+
 This study presents a comprehensive analysis of Electroencephalography (EEG) signals using various computational techniques. EEG signals, which reflect the electrical activity of the brain, are crucial in neuroscience research and clinical applications. The analysis includes clustering, classification, anomaly detection, and feature importance analysis. We have explored K-Means clustering, Random Forest Classifiers, Artificial Neural Networks (ANNs), Support Vector Machines (SVMs), and autoencoders. The findings provide insights into EEG patterns, classification accuracy, and anomaly detection, offering a foundation for advanced EEG-based applications.
